@@ -1,0 +1,8 @@
+https://snaildove.github.io/2018/10/02/get-started-XGBoost/
+https://homes.cs.washington.edu/~tqchen/pdf/BoostedTree.pdf
+https://snaildove.github.io/2018/10/01/8.Booting-Methods_LiHang-Statistical-Learning-Methods/
+https://github.com/fengdu78/lihang-code/blob/master/%E7%AC%AC08%E7%AB%A0%20%E6%8F%90%E5%8D%87%E6%96%B9%E6%B3%95/8.Boost.ipynb
+https://github.com/lzzhu/lihang-code/blob/master/code/%E7%AC%AC8%E7%AB%A0%20%E6%8F%90%E5%8D%87%E6%96%B9%E6%B3%95(AdaBoost)/Adaboost.ipynb
+https://louisscorpio.github.io/2017/12/13/GBDT%E5%85%A5%E9%97%A8%E8%AF%A6%E8%A7%A3/
+https://xgboost.apachecn.org/#/docs/7
+https://blog.csdn.net/u014630987/article/details/89602217
